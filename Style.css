@@ -1,0 +1,19 @@
+h1 {
+color:burlywood;
+font-family: 'Times New Roman', Times, serif;
+}
+
+h3 { 
+    color:bisque;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4 {
+    color:azure;
+    font-size: medium;
+}
+
+h5 {
+color:aliceblue;
+font-size: larger;
+}
